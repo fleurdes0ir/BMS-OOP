@@ -242,8 +242,8 @@ Project ini telah melalui 25 test case yang mencakup:
 ## 👨‍💻 Author
 
 **[Nama Kamu]**
-- GitHub: [@username](https://github.com/username)
-- Email: email@domain.com
+- GitHub: [@fleurdes0ir](https://github.com/fleurdes0ir)
+- Email: pr4widyaa@gmail.com
 
 ---
 
