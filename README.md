@@ -241,7 +241,7 @@ Project ini telah melalui 25 test case yang mencakup:
 
 ## 👨‍💻 Author
 
-**[Nama Kamu]**
+**Anaya Bintang Prawidya .aka fleurdes0ir**
 - GitHub: [@fleurdes0ir](https://github.com/fleurdes0ir)
 - Email: pr4widyaa@gmail.com
 
