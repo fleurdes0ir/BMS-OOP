@@ -1,0 +1,4 @@
+userId,username,passwordHash,role,customerId
+U001,admin,240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9,ADMIN,
+U002,budi.santoso,eb11f8db62480bb42372cb1156e1c5e9b66c02ef97851b2741d97c3f159b5cbe,CUSTOMER,C001
+U003,sari.dewi,eb11f8db62480bb42372cb1156e1c5e9b66c02ef97851b2741d97c3f159b5cbe,CUSTOMER,C002
