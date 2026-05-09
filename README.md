@@ -247,4 +247,4 @@ Project ini telah melalui 25 test case yang mencakup:
 
 ---
 
-*Dibuat dengan ☕ Java dan semangat belajar OOP.*
+*Boosted by ☕ Traktir-Kopi dan semangat belajar OOP.*
