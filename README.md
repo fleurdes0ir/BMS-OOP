@@ -1,4 +1,4 @@
-# 🏦 NusaBank — Banking Management System
+# 🏦 NusaBank | Banking Management System
 
 > Aplikasi manajemen perbankan berbasis desktop yang dibangun menggunakan **Java + JavaFX**, mengimplementasikan seluruh pilar *Object-Oriented Programming* (OOP) sebagai project akhir semester mata kuliah OOP.
 
@@ -98,8 +98,8 @@ public interface Transactable {
 
 | Pattern | Implementasi |
 |---|---|
-| **Singleton** | `AuthService` — satu sesi login aktif di seluruh aplikasi |
-| **Singleton** | `ThemeManager` — state tema konsisten di semua screen |
+| **Singleton** | `AuthService`  satu sesi login aktif di seluruh aplikasi |
+| **Singleton** | `ThemeManager`  state tema konsisten di semua screen |
 | **Repository** | Setiap entitas punya repository tersendiri untuk akses CSV |
 
 ---
